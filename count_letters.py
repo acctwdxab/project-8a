@@ -1,7 +1,7 @@
 # Dan Wu
 # 11/17/2020
 # Write a function that takes as a parameter a string and returns a dictionary that tabulates how many of each letter is in that string.
-import string
+
 
 
 def count_letters (string):
